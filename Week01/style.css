@@ -1,0 +1,21 @@
+h1 {
+  font-family: arial black;
+  color: #FF666F
+}
+
+.main {
+  font-size: 24px;
+  font-family: arial;
+  font-style: italic;
+}
+
+.main {
+  font-size: 18px;
+  font-family: arial;
+}
+
+ul {
+  font-family: arial;
+  font-weight: bold;
+  color: #FF666F
+}
