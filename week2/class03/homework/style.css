@@ -1,0 +1,50 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+.bigbox{
+  width: 90%;
+  background: lightgray;
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+
+}
+
+.nav {
+  background: black;
+  color: white;
+  padding: 20px;
+  
+}
+
+.nav a{
+  color: white;
+  font-weight: bold;
+}
+
+.menu {
+  display: inline;
+  padding: 50px;
+}
+
+
+
+.box {
+  background: orange;
+  padding: 20px;
+  height: 100px;
+}
+
+#green {
+  color: green;
+}
+
+#blue {
+  color: blue;
+}
+
+#purple {
+  color: purple
+}
