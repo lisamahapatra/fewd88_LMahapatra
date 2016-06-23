@@ -1,0 +1,154 @@
+/*// FONT FAMILY HELPERS :)
+// font-family: 'Oswald', sans-serif;
+// font-family: 'Merriweather', serif;
+// font-family: 'Source Sans Pro', sans-serif;*/
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-image: url("../img/coworking.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+.top {
+	height: 40px;
+	background-color: black;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+	color: yellow;
+	float: left;
+	font-size: 18px;
+
+}
+
+nav {
+	float: right;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+nav a {
+	padding-left: 20px;
+	color: white;
+	text-decoration: none;
+
+}
+
+.bold {
+	font-family: 'Oswald', sans-serif;
+}
+
+.clear {
+  clear: both;
+}
+
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.yellow {
+	background-color: yellow;
+	width: 100%;
+	height: 3px;
+}
+
+header {
+	overflow: hidden;
+	background-color: black;
+	width: 100%;
+}
+
+.subhead {
+	height: 40px;
+	line-height: 40px;
+	background-color: #AFAFAF;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+
+.tagline {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-style: italic;
+}
+
+#strikethrough {
+	text-decoration: line-through;
+	color: #5f5f5f;
+}
+
+#underline {
+	text-decoration: underline;
+}
+
+.main {
+	height: 200px;
+	width: 300px;
+	background-color:rgba(255, 255, 255, 0.8);
+	float: right;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+.hl {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.button1 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	background-color: yellow;
+	height: 30px;
+	line-height: 30px;
+}
+
+.button {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	background-color: gray;
+	height: 30px;
+	line-height: 30px;
+}
+
+.section {
+	width: 100%;
+	background-color: #AFAFAF;
+	height: 200px;
+}
+
+.secondary {
+	width: 26.6%;
+	height: 200px;
+	display: inline-block;
+}
+
+#left {
+	padding-right: 48px;
+	margin-right: 48px;
+	border-right: 2px;
+	border-color: black;
+}
+
+#right {
+	padding-left: 48px;
+	margin-left: 48px;
+	border-left: 2px;
+	border-color: black;
+
+}
+
+footer {
+	background-color: black;
+	height: 50px;
+}
+
+.foot {
+	color: white;
+	line-height: 50px;
+	margin: 0px;
+}
