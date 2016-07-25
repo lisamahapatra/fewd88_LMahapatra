@@ -1,71 +1,46 @@
-/*// FONT FAMILY HELPERS :)
-// font-family: 'Oswald', sans-serif;
-// font-family: 'Merriweather', serif;
-// font-family: 'Source Sans Pro', sans-serif;*/
-
 body {
 	font-family: 'Raleway', sans-serif;
 }
 
 .top {
-	height: 60px;
-	background-color: black;
+	height: 100px;
 }
 
 h1 {
-	color: white;
-	float: left;
 	font-size: 28px;
+	line-height: 0px;
+	padding-top: 20px;
 
 }
 
-nav {
-	float: right;
-	font-size: 18px;
-	margin-top: 25px;
+h2 {
+	font-size: 44px;
+	line-height: 0px;
+	font-weight: 100;
 }
 
-nav a {
-	padding-left: 20px;
-	color: white;
-	text-decoration: none;
-
-}
 
 .clear {
   clear: both;
 }
 
 .wrapper {
-	width: 70%;
+	width: 95%;
 	margin: 0 auto;
+	display: block;
 }
 
-.line {
-	background-color: teal;
-	width: 100%;
-	height: 3px;
-}
 
 header {
 	overflow: hidden;
-	background-color: black;
 	width: 100%;
 }
 
-.subhead {
-	height: 40px;
-	line-height: 40px;
-	background-color: #AFAFAF;
-	width: 100%;
-	margin-bottom: 50px;
+section {
+	width: 95%;
+	margin: 0 auto;
+	display: block;
 }
 
 
-.tagline {
-	font-size: 15px;
-	text-align: center;
-	font-weight: 200;
-	font-style: italic;
-}
 
